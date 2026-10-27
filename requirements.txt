@@ -1,7 +1,8 @@
-numpy
+numpy==1.26.4
 lmdb
 click
 tqdm
 tabulate
 pandas
-sklearn
+scikit-learn
+torch
